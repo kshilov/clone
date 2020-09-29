@@ -1,0 +1,10 @@
+urllib3==1.25.8
+requests_toolbelt==0.9.1
+pandas==1.1.2
+aiogoogle==0.1.17
+google_auth_oauthlib==0.4.1
+motor==2.2.0
+pymongo==3.11.0
+google_api_python_client==1.12.3
+protobuf==3.13.0
+uvloop==0.14.0
